@@ -1,4 +1,4 @@
-![Header](https://github.com/AbduganiOdilov/AbduganiOdilov/blob/main/assets/banner-fin.png)
+![Header](https://github.com/AbduganiOdilov/AbduganiOdilov/blob/main/assets/banner.png)
 
 ## I'm a Python Developer from Uzbekistan
 
