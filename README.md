@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/AbduganiOdilov/AbduganiOdilov/blob/main/assets/banner.png)
 
 About me
 
