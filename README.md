@@ -9,11 +9,11 @@
 
 
 ### Follow Me
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/abdugani_o)
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=%2CA9DF)](https://t.me/abdugani_o)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=%23bc2a8d)](https://www.instagram.com/abdugani.aka/)
-[![Code cup](https://img.shields.io/badge/CodeCup-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/CodeCupDev)
-[![Steam](https://img.shields.io/badge/steam-black?style=for-the-badge&logo=steam&logoColor=blue)](https://steamcommunity.com/profiles/76561199111058044/)
-[![discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.gg/9t2Ykmr7wP)
+[![Code cup](https://img.shields.io/badge/CodeCup-black?style=for-the-badge&logo=telegram&logoColor=%2CA9DF)](https://t.me/CodeCupDev)
+[![Steam](https://img.shields.io/badge/steam-black?style=for-the-badge&logo=steam&logoColor=%031331)](https://steamcommunity.com/profiles/76561199111058044/)
+[![discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=%5865F2)](https://discord.gg/9t2Ykmr7wP)
 
 
 
