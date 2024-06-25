@@ -1,29 +1,41 @@
 ![Header](https://github.com/AbduganiOdilov/AbduganiOdilov/blob/main/assets/banner.png)
 
-## I'm a Python Developer from Uzbekistan
+## I'm a Python Developer & Graphic Designer from Uzbekistan
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-#### Languages
+- #### Languages
 
 ![C++](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow)
 
-#### Backend
+- #### Backend
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=green)
 
-#### Frontend
+- #### Frontend
 ![Html](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=%23FF4433)
 ![Css](https://img.shields.io/badge/Css3-black?style=for-the-badge&logo=Css3&logoColor=blue)
 
-#### Databases
+- #### Databases
 ![Sqlite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=Sqlite&logoColor=white)
 
-#### Tools
+- #### Tools
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=%23FF4433)
 ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github)
 ![Pycharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=green)
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white)
+
+
+
+- #### Graphic tools
+![Photoshop](https://img.shields.io/badge/photoshop-black?style=for-the-badge&logo=adobe-photoshop&logoColor=blue)
+![illustrator](https://img.shields.io/badge/illustrator-black?style=for-the-badge&logo=adobe-illustrator&logoColor=orange)
+![CorelDraw](https://img.shields.io/badge/CorelDraw-black?style=for-the-badge&logo=CorelDraw&logoColor=green)
+![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=pourple)
+![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=Canva)
+
+
+
 
 #### Follow Me
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=%2CA9DF)](https://t.me/abdugani_o)
