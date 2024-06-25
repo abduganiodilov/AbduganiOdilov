@@ -37,7 +37,7 @@
 
 
 
-#### Follow Me
+- #### Follow Me
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=%2CA9DF)](https://t.me/abdugani_o)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=%23bc2a8d)](https://www.instagram.com/abdugani.aka/)
 [![Code cup](https://img.shields.io/badge/CodeCup-black?style=for-the-badge&logo=telegram&logoColor=%2CA9DF)](https://t.me/CodeCupDev)
